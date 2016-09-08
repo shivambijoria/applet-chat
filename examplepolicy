@@ -1,0 +1,8 @@
+/* AUTOMATICALLY GENERATED ON Sun Feb 16 19:12:31 IST 2014*/
+/* DO NOT EDIT */
+
+grant {
+  permission java.security.AllPermission;
+  permission java.net.SocketPermission ;
+};
+
